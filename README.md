@@ -1,5 +1,5 @@
 ## Hello World 👋
-I'm a technical school student from Poland. I'm eager to learn something new every day. I find myself most confident in writing web aplications, besides that I'm learning how to program mobile and desktop apps.
+I'm a technical school student from Poland. I'm eager to learn something new every day. I find myself most confident in writing web applications, besides that I'm learning how to program mobile and desktop apps.
 
 Besides programming I like going to the gym, volleyball and all kinds of mountains activities. It's a really good feeling to take a break from everything once in a while and connect with nature.
 <!--
